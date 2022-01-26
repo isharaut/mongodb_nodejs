@@ -1,0 +1,28 @@
+{
+  "name": "mongodb-node-example",
+  "version": "1.0.0",
+  "description": "This is for mongodb-nodejs project.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "isha-raut",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "npm i"
+  }
+}
